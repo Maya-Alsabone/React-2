@@ -21,6 +21,7 @@ export default function MyApp() {
       <h1>Welcome to my app</h1>
       <MyButton />
       <AboutPage />
+      <img className="avatar" src="path-to-your-image.jpg" alt="Avatar" />
     </div>
   );
 }
