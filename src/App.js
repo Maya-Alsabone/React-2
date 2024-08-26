@@ -21,7 +21,7 @@ function AboutPage() {
 
 export default function MyApp() {
   return (
-    <div>
+    <div className='page'>
       <h1>Welcome to my app</h1>
       <MyButton />
       <AboutPage />
